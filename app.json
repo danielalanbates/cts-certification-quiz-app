@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CTS Mastery Quiz",
+    "slug": "cts-mastery-quiz",
+    "scheme": "ctsmasteryquiz",
+    "orientation": "portrait",
+    "platforms": ["ios"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
